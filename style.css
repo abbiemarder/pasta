@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(255, 252, 237);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lobster', cursive;
+}
+ul {
+    list-style-type: none;
+}
